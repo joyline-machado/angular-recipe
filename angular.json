@@ -13,7 +13,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "receipe-project",
+            "outputPath": "dist/udemy-receipe",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": [
